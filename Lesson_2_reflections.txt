@@ -14,5 +14,3 @@ What value do you think it offers?
     that you'd like to all be associated with one commit as opposed to many
     individual commits per file that don't reflect the linked changes between
     files which created the need for the commit to begin with.
-
-New question
