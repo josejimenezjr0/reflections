@@ -14,3 +14,9 @@ What value do you think it offers?
     that you'd like to all be associated with one commit as opposed to many
     individual commits per file that don't reflect the linked changes between
     files which created the need for the commit to begin with.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+    You can stage multiple files in case the logical change requires multiple
+    files.
