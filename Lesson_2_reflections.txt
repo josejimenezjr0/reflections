@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    A hidden .git directory is created. You need the directory for git
+    to do what it does, track your commits.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+    It's different from the working area in that it's where you place files
+    that will soon be committed. The working area files are either not tracked
+    or have no changes to them that warrant a consideration to be committed.
+    The staging area is also different from the repository in that these files
+    have not yet been committed and they could be a grouping of several files
+    that you'd like to all be associated with one commit as opposed to many
+    individual commits per file that don't reflect the linked changes between
+    files which created the need for the commit to begin with.
