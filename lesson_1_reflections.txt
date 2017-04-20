@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Diff allowed me to narrow my focus to the specific
+differences in the code.
+
+    Having that zoomed in approach of only the differences
+    saved me time in seeing how my most recent changes
+    may have detrimentally affected my code.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If a new entry in my code made it not work then I could easily go back to
+    any previous change and pick up from where I left off
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros - Let's you logically decide when big enough changes warrant an entry
+    into your log history.
+    Cons - You could potentially go too long without committing and make too
+    many changes that are hard to look through for errors.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allows it because it's programmer oriented and Git understand that for
+    programming you often have several integrated/correlated files.
+    Something like Google Docs would not do this as those types of documents do
+    not regularly rely on several files.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    log shows the history of commits you made and get diff will show you the
+    differences between them.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It creates a safety net. I would feel immensely more comfortable with this
+    type of version control in place.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    All of my programming. It's capabilities are perfect for exploring without
+    fear. 
